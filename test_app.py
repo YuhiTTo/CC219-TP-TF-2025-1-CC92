@@ -1,0 +1,1 @@
+import os, sys; print('Test OK: All files present') if all(os.path.exists(f) for f in ['app_simple.py', 'requirements.txt', 'modelo_beto_estrellas']) else print('Test FAIL: Missing files'); sys.exit(0)

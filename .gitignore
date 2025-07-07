@@ -1,0 +1,123 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Model files (if too large)
+# modelo_beto_estrellas/
+
+# Data files (if sensitive)
+# *.csv
+
+# Backup files
+*_backup.py
+*_old.py
+*_temp.py
+verificacion_*.py
+instalacion_*.py
+run_*_old.bat
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de backup y temporales
+*_backup.py
+*_old.py
+*_temp.py
+*_no_triton.py
+*.tmp
+*.bak
+
+# Archivos de documentación duplicados
+*_FINAL.md
+*_OLD.md
+*_BACKUP.md
+ARCHIVOS_A_ELIMINAR.md
+ERRORES_*.md
+SOLUCION_*.md
+IMPLEMENTACION_*.md
+OPTIMIZACION_*.md
+REPORTE_*.md
+
+# Scripts obsoletos
+verificar_*.py
+verificacion_final_*.py
+benchmark_*.py
+instalar_*.bat
+run_app_conda.bat
+run_app.bat
