@@ -7,6 +7,12 @@
 
 Una aplicación web avanzada para análisis de sentimientos en comentarios hoteleros utilizando **BERT (BETO)** en español con **análisis de interpretabilidad SHAP**, dashboard interactivo, procesamiento por lotes y visualizaciones avanzadas.
 
+## Integrantes
+- U202218044 Mayhua Hinostroza, José Antonio
+- U202216120 Manchay Paredes, Lucero Salome
+- U201714492 Peña Cárdenas, Jhamil Brijan
+
+
 ## 🎯 Descripción del Proyecto
 
 Este proyecto implementa un sistema completo de análisis de sentimientos para comentarios hoteleros en español, combinando:
