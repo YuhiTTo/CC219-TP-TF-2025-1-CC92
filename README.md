@@ -470,6 +470,11 @@ Resultado esperado:
 5. **Push** (`git push origin feature/nueva-funcionalidad`)
 6. **Pull Request** con descripción detallada
 
+## Conclusiones
+- El modelo BERT fine-tuneado (BETO) demostró una alta precisión (>85%) en la predicción de calificaciones de reseñas hoteleras, superando ampliamente a los modelos clásicos en la captura de matices y contexto.
+- La integración de SHAP permitió explicar de manera transparente las predicciones, identificando las palabras y frases que más influyen en la calificación asignada. Esto aporta confianza y valor tanto para usuarios finales como para empresas hoteleras.
+- La aplicación desarrollada es capaz de procesar tanto reseñas individuales como grandes volúmenes de datos, generando métricas y visualizaciones útiles para la toma de decisiones empresariales.
+
 ## 📜 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) para más detalles.
