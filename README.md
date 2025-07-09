@@ -488,9 +488,9 @@ Este proyecto está bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) para más d
 
 ## 📞 Soporte y Contacto
 
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/proyecto/issues)
-- **Documentación**: [Wiki del Proyecto](https://github.com/tu-usuario/proyecto/wiki)
-- **Email**: tu-email@ejemplo.com
+- **Issues**: [GitHub Issues](https://github.com/Jaed69/proyecto/issues)
+- **Documentación**: [Wiki del Proyecto](https://github.com/Jaed69/proyecto/wiki)
+- **Email**: twofigsthree@gmail.com
 
 ---
 
